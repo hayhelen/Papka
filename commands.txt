@@ -1,0 +1,28 @@
+~ root
+ls - get items
+ls - a  - get all hidden items
+cd - change directory
+cd.. - step back
+mkdir <.....> - create new directory
+touch <.....>- create new file
+rm - rf - remove/delete item
+////////////////////////////////////////////////
+git init - initialization
+git add <file_name>/ .
+. - all units into directory
+/////// status//////
+untracked file - git doesn't watch at this file
+added - git becomes to watch at file
+modified - something changed
+git commit - m <"msg"> save 
+git commit - m "Added something new"
+//////////////////////branches////////////////
+git branch - info about branches
+git branch m-main - change name branch
+git log - info about commit
+git check out- change branch
+git branch <branch's ___name> - create new branch
+hello hello
+git config --global user.name "hayhelen"
+git config --global user.email hayhelen547@gmail.com
+
